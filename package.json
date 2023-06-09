@@ -23,7 +23,7 @@
     "mocha": "^10.1.0",
     "react-addons-test-utils": "^0.14.7",
     "webpack": "^5.75.0",
-    "webpack-dev-server": "^1.14.0"
+    "webpack-dev-server": "^4.15.1"
   },
   "dependencies": {
     "axios": "^0.21.1",
